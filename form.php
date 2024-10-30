@@ -4,6 +4,10 @@
     <title>Form HTML</title>
 </head>
 <body>
+  <h1>FATIH</h1>
+  <!==ini nim saya==>
+  <h2>607012300098</h2> 
+    Daftar Menu:
     <form action="proses.php" method="GET">
         <table border="1px">
         <tr>
